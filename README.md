@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhoomika Madhukar Keni</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on **5G edge cashing**
+- 🔭 I’m currently working on **5G edge caching**
 
 - 🌱 I’m currently learning **eactJS, VueJS, GSAP, TailwindCSS, Node.js, and modern JavaScript frameworks**
 
